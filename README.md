@@ -10,7 +10,7 @@
 
 
 ### 我目前学习很紧张并没有什么活跃性 I'm very nervous about studying right now and I'm not very active.
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sonako0122&theme=dracula" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yosaki-sonako&theme=dracula" /> </div>
 
 ### 正在学习
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
@@ -22,7 +22,7 @@
 ![Sublime Badge](https://img.shields.io/badge/Sublime-Text-%23FF9800?logo=sublimetext&logoColor=#FF9800)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonako0122&theme=Default" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yosaki-sonako&theme=Default" /> </div>
 
 <!--
 **sonako0122/sonako0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
