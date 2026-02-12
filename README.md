@@ -9,9 +9,6 @@
   > Welcome to my homepage.
 
 
-### 我目前学习很紧张并没有什么活跃性 I'm very nervous about studying right now and I'm not very active.
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yosaki-sonako&theme=dracula" /> </div>
-
 ### 正在学习
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Kotin Badge](https://img.shields.io/badge/Kotin-brightgreen?style=flat&logo=kotlin&labelColor=violet&color=violet)
